@@ -1,0 +1,23 @@
+# Build directories and artifacts
+Tamagotchi/build/
+Tamagotchi/dist/
+Tamagotchi/nbproject/private/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Compiled class files
+*.class
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
